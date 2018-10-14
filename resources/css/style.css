@@ -1,16 +1,15 @@
 
 body {
-font-family: Verdana;
+font-family: "Verdana", sans-serif;
 background-color: black;
 text-align: center;
+color: white;
 }
 
 h1
 {
 font-weight: normal;
 font-size: 50px;
-color: white;
-text-align: center;
 letter-spacing: -1px;
 }
 .download
@@ -19,13 +18,9 @@ color: aquamarine;
 font-weight: normal;
 font-size: 16px;
 }
-#video
-{
-text-align: center;
-}
+
 h2
 {
-  color: white;
   font-weight: 300;
   font-size: 42px;
   padding-top: 20px;
